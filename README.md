@@ -3,6 +3,10 @@ KNN algorithm implementation in Python
 
 ![image](https://user-images.githubusercontent.com/51094403/136416903-78eb3d71-e532-4c63-b1ba-b2b2bcfa194f.png)
 
+## Understanding of the Algorithm
+
+If you want more details, you can look at [this page](https://medium.com/@springboard_ind/knn-machine-learning-algorithm-explained-596d60336076).
+
 This classification Algorithm was used during a competition in my school to predict unknown data.
 
 I used the euclidian distance on my normalized data to find the k-nearest individuals. Then, I simply assign the most represented class to the data that we are predicting. The confusion matrix was also useful to understand how good my code is.
