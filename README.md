@@ -42,6 +42,8 @@ I created a confusion matrix to understand how successful my methods were on my 
 ![image](https://user-images.githubusercontent.com/51094403/136416765-f62251c4-be86-40ed-b4b5-dc660a907a1f.png)
 
 The KNN algorithms is a non-parametric method which means that the only unknown parameter is K. In order to find the best value I plotted how efficient was my algorithm depending on the number k to optimize it.
+The best option seems to be K=4.
+
 ![image](https://user-images.githubusercontent.com/51094403/136416830-20815e99-d07e-4af9-a74a-4b77b4dc8240.png)
 
 
